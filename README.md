@@ -1,4 +1,4 @@
 # asynchronous-motor-fractal-metrics
-The repository contains Python scripts for processing the dataset. 
-The processing includes calculating fractal and entropy features and plotting graphs.
+Репозиторий содержит все исходные скрипты для конкурсной работы
+Для проверки: запустите verify_results.py (параметры запуска указаны в начале файла)
 Autumn 2026
